@@ -1,1 +1,1 @@
-# MGS-402_Demo1-YJ
+# MGS-402-Demo1-YJ
